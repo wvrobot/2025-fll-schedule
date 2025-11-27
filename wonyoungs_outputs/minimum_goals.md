@@ -13,7 +13,7 @@ LocationConsistency
 
 OpponentVariety
 - 0 teams that see 1 or more opponent(s) twice
-- 4-5 teams with im perfect scores
+- 4-5 teams with imperfect scores
 
 
 ---Results (Example analysis with 1 schedule)---
